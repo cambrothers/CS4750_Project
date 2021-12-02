@@ -80,7 +80,7 @@ DATABASES = {
         'NAME': 'cs4750proj1',
         'USER': 'root',
         'PASSWORD': '',
-        'HOST': '127.0.0.1:8000',
+        'HOST': '127.0.0.1',
         'PORT': '3306',
         # 'OPTIONS': {
         #     'init_command': "SET sql_mode='STRICT_TRANS_TABLES"
@@ -113,7 +113,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'EST'
 
 USE_I18N = True
 
