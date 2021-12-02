@@ -1,0 +1,17 @@
+<html>
+<body>
+<h1> Welcome To Your Kroger Shopping List!</h1>
+<BR>
+
+<h2> What would you like to do?</h2>
+<BR>
+
+<h3> What would you like to do?</h3>
+<a href="UsersForm.html" target="blank">
+ <button>Add a user</button>
+<BR>
+<a href="UserSelect.php" target="blank">
+ <button>Select a user</button>
+
+</body>
+</html>

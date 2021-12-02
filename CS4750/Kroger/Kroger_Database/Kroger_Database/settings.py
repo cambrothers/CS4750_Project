@@ -78,8 +78,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'cs4750proj1',
-        'USER': 'root',
-        'PASSWORD': '',
+        'USER': 'teddybelly1',
+        'PASSWORD': 'cs4750hien',
         'HOST': '127.0.0.1',
         'PORT': '3306',
         # 'OPTIONS': {
@@ -113,7 +113,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'EST'
+TIME_ZONE = 'UTC'
 
 USE_I18N = True
 
